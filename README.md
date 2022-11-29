@@ -1,9 +1,6 @@
 # ChatterBox
 A simple chatting software!
 
-![image](https://user-images.githubusercontent.com/53323309/204476093-e5ac7c50-0b35-4748-bf3f-cac2e93d5281.png)
-
-
 ## Notes
 Things to note before you start using ChatterBox:
 
