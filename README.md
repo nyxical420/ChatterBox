@@ -12,6 +12,8 @@ Things to note before you start using ChatterBox:
 
 4. ChatterBox Servers are hosted in [ekzhang/bore](https://github.com/ekzhang/bore) to expose your locally hosted ChatterBox Server to the internet and let people connect to your server.
 
+5. When hosting a server, do not use [Cloudflare WARP](https://1.1.1.1/) or else you wont be able to tunnel your server in public.
+
 ## ChatterBox Requirements
 - 64-bit Compatible Processor to run Bore and ChatterBox.
 - 2.00GHz Intel/AMD Processor for handling message logs.
