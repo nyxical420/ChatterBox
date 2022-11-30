@@ -16,4 +16,3 @@ Things to note before you start using ChatterBox:
 
 ## ChatterBox Requirements
 - 64-bit Compatible Processor to run Bore and ChatterBox.
-- 2.00GHz Intel/AMD Processor for handling message logs.
